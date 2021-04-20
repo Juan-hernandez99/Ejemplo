@@ -1,0 +1,2 @@
+1.Iniciar clase con pase de lista
+2.Crea un repo en GitHub
